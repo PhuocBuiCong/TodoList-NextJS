@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Mr",
+        "firstName": "ABC",
+        "lastName": "Reus",
+        "email": "frank.reus@rustvale.com",
+        "role": "User",
+        "password": "sue12345",
+        "id": 1,
+        "dateCreated": "2021-04-08T05:33:05.184Z",
+        "dateUpdated": "2021-09-09T02:02:40.890Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "PhuocBui",
+        "lastName": "Cong",
+        "email": "phuocbuii1999@gmail.com",
+        "role": "Admin",
+        "password": "123456",
+        "id": 2,
+        "dateCreated": "2021-09-08T10:33:21.739Z",
+        "dateUpdated": "2021-09-08T10:33:21.739Z"
+    },
+    {
+        "title": "Mrs",
+        "firstName": "avcđ",
+        "lastName": "dđ",
+        "email": "phuocmarco244@gmail.com",
+        "role": "Admin",
+        "password": "kemayhoi99",
+        "id": 3,
+        "dateCreated": "2021-09-09T02:38:00.161Z",
+        "dateUpdated": "2021-09-09T02:38:00.161Z"
+    }
+]
